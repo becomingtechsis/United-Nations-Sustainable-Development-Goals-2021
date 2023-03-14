@@ -1,0 +1,15 @@
+{
+  "name": "My New Theme",
+  "dataColors": [
+    "#e5233d",
+    "#dda73a",
+    "#4da147",
+    "#c7212f",
+    "#ef402d",
+    "#28bde5",
+    "#fbc412",
+    "#a31c44",
+    "#f16d31"
+  ],
+  "visualStyles": {}
+}
