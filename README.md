@@ -20,7 +20,7 @@ Using the [Hex Color Picker browser extension](https://chrome.google.com/webstor
 
 Proceeded to downloaded the template as a JSON file and uploaded it to the Power BI desktop. 
 ```json
-r{
+{
   "name": "My New Theme",
   "dataColors": [
     "#e5233d",
