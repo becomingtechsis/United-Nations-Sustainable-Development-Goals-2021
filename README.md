@@ -19,8 +19,25 @@ Using the [Hex Color Picker browser extension](https://chrome.google.com/webstor
 ![](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021/blob/main/color%20palatte.png)
 
 Proceeded to downloaded the template as a JSON file and uploaded it to the Power BI desktop. 
+```json
+r{
+  "name": "My New Theme",
+  "dataColors": [
+    "#e5233d",
+    "#dda73a",
+    "#4da147",
+    "#c7212f",
+    "#ef402d",
+    "#28bde5",
+    "#fbc412",
+    "#a31c44",
+    "#f16d31"
+  ],
+  "visualStyles": {}
+}
+```
 Sourcing for the report images URLs,  
-- I got the URL for each of the SDG icons for the primary image.
+- I got the URL for each of the SDG icons for the [primary image](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021/blob/main/UNO%20SDG%20Colors%20and%20Images.xlsx)
 - Grabbed a secondary image directly from the PDF annual report.
 - Used postimages.org to turn screenshots into image URLs.
 Then I set the data type of my image columns to Image URL.
