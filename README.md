@@ -42,4 +42,8 @@ Sourcing for the report images URLs,
 - Used postimages.org to turn screenshots into image URLs.
 Then I set the data type of my image columns to Image URL.
 
+# Dashboard
+![](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021/blob/main/Home%20page.png)
+![](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021/blob/main/poverty.png)
+
 For my goals selector, I used the Collage by Cloudscope custom visual. While for the secondary image (the large image associated with each goal) I used the Simple Image custom visual. Did some custom formatting to make the background colors match the color associated with the SDG goal.
