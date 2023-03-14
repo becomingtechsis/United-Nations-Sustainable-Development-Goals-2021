@@ -43,6 +43,9 @@ Sourcing for the report images URLs,
 Then I set the data type of my image columns to Image URL.
 
 # Dashboard
+Link to the  [Power BI Dashboard](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021/blob/main/UNO%20SVG%202021.pbix)
+
+# Preview
 ![](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021/blob/main/Home%20page.png)
 ![](https://github.com/becomingtechsis/United-Nations-Sustainable-Development-Goals-2021/blob/main/poverty.png)
 
