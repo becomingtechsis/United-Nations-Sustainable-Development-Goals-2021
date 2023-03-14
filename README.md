@@ -1,4 +1,4 @@
-# United-Nations-Sustainable-Goals-2021
+# United-Nations-Sustainable-Development-Goals-2021
 Introduction
 I created a custom theme using the color palette of the United Nations Sustainable Development Goals [https://unstats.un.org/sdgs ]
 
