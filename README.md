@@ -20,3 +20,5 @@ for Chrome, I gathered the hex codes for each of the 17 SDGs,and was able to cre
 •	I used postimages.org to turn screenshots into image URLs.
 5. Then I set the data type of my image columns to Image URL.
 6. Using the Collage by Cloudscope custom visual for my Goal selector and the Simple Image custom visual for my secondary image (the large image associated with each goal) and custom formatting to make the background colors match the color associated with the SDG goal.
+
+You can read the PDF 2021 report from the dashboard
